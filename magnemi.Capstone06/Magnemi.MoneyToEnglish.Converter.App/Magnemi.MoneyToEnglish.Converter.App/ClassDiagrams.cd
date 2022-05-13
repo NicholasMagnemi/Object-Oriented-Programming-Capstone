@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Magnemi.MoneyToEnglish.Converter.App.MoneyToEnglish">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAmIgAAAAQAFkAAAMAAgAQAAAAABAAAAAYAQAAAAAE=</HashCode>
+      <FileName>MoneyToEnglish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magnemi.MoneyToEnglish.Converter.App.Program">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magnemi.MoneyToEnglish.Converter.App.InputValidation">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAIAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>InputValidation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

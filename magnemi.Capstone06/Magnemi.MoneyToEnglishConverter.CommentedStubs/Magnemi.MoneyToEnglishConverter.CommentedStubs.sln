@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magnemi.MoneyToEnglishConverter.CommentedStubs", "Magnemi.MoneyToEnglishConverter.CommentedStubs\Magnemi.MoneyToEnglishConverter.CommentedStubs.csproj", "{1A86496C-B834-4863-B21B-DE99622AFB5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A86496C-B834-4863-B21B-DE99622AFB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A86496C-B834-4863-B21B-DE99622AFB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A86496C-B834-4863-B21B-DE99622AFB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A86496C-B834-4863-B21B-DE99622AFB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C04A1926-EC8E-4515-BC14-9E5D2FD60A91}
+	EndGlobalSection
+EndGlobal
